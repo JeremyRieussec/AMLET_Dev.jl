@@ -1,0 +1,14 @@
+name = "AMLET"
+uuid = "59563c96-f0ed-11e8-0f0b-a5c994f2970e"
+authors = ["wirelessroom2 <jl_chartrand@hotmail.com>"]
+version = "0.1.0"
+
+[deps]
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+GERALDINE = "7146fd16-f651-11e8-2d04-2b42f8d5a9c6"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+RDST = "dc077566-edc2-11e8-0ce0-7d758bb9a5d1"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
+OnlineStats = "a15396b6-48d5-5d58-9928-6d29437db91e"
+MLDatasets = "eb30cadb-4394-5ae3-aed4-317e484a6458"
